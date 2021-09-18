@@ -2,12 +2,12 @@
 # Hello, I'm [Zachary Horvath](https://www.zacharyhorvath.io).
 
 <span>
-  <img src="https://img.shields.io/badge/-JavaScript-f7df1e?logo=javascript&logoColor=white&style=for-the-badge" alt="javascript badge" />
-  <img src="https://img.shields.io/badge/-TypeScript-007acc?logo=typescript&logoColor=white&style=for-the-badge" alt="javascript badge" />
+  <img src="https://img.shields.io/badge/-JavaScript-f7df1e?logo=javascript&logoColor=black&style=for-the-badge" alt="javascript badge" />
+  <img src="https://img.shields.io/badge/-TypeScript-007acc?logo=typescript&logoColor=white&style=for-the-badge" alt="typescript badge" />
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="react badge" />
   <img src="https://img.shields.io/badge/-Next.js-666666?logo=nextdotjs&logoColor=white&style=for-the-badge" alt="next.js badge" />
-  <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="next.js badge" />
-  <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="next.js badge" />
+  <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="html badge" />
+  <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="css badge" />
 </span>
 
 ----
