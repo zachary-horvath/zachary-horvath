@@ -28,6 +28,7 @@ Skills:
   <img src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge" alt="graphql badge" />
   <img src="https://img.shields.io/badge/-Contentful-2478CC?logo=graphql&logoColor=white&style=for-the-badge" alt="contentful badge" />
   <img src="https://img.shields.io/badge/-Strapi-2F2E8B?logo=strapi&logoColor=white&style=for-the-badge" alt="strapi badge" />
+  <img src="https://img.shields.io/badge/-Stripe-008CDD?logo=stripe&logoColor=white&style=for-the-badge" alt="strapi badge" />
   <img src="https://img.shields.io/badge/-Shopify-7AB55C?logo=shopify&logoColor=white&style=for-the-badge" alt="shopify badge" />
   <img src="https://img.shields.io/badge/-BigCommerce-121118?logo=bigcommerce&logoColor=white&style=for-the-badge" alt="bigcommerce badge" />
   <img src="https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black&style=for-the-badge" alt="webpack badge" />
