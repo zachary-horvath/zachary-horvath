@@ -34,7 +34,7 @@ Skills:
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="git badge" />
   <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="github badge" />
   <img src="https://img.shields.io/badge/-Framer-0055FF?logo=framer&logoColor=white&style=for-the-badge" alt="framer badge" />
-  <img src="https://img.shields.io/badge/-Creative Cloud-DA1F26?logo=adobecreativecloud&logoColor=white&style=for-the-badge" alt="creative cloud badge" />
+  <img src="https://img.shields.io/badge/-Adobe Creative Cloud-DA1F26?logo=adobecreativecloud&logoColor=white&style=for-the-badge" alt="creative cloud badge" />
 </span>
 
 -----
