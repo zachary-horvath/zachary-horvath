@@ -1,6 +1,14 @@
 
 # Hello, I'm [Zachary Horvath](https://www.zacharyhorvath.io).
 
+----
+
+I'm a professional web designer, developer, and marketer. I love to write and create content, and I build websites that are fast, responsive, intuitive, and dynamic.
+
+-----
+
+Skills:
+
 <span>
   <img src="https://img.shields.io/badge/-JavaScript-f7df1e?logo=javascript&logoColor=black&style=for-the-badge" alt="javascript badge" />
   <img src="https://img.shields.io/badge/-TypeScript-007acc?logo=typescript&logoColor=white&style=for-the-badge" alt="typescript badge" />
@@ -12,31 +20,12 @@
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" alt="firebase badge" />
   <img src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge" alt="graphql badge" />
   <img src="https://img.shields.io/badge/-Contentful-2478CC?logo=graphql&logoColor=white&style=for-the-badge" alt="contentful badge" />
+  <img src="https://img.shields.io/badge/-Shopify-7AB55C?logo=shopify&logoColor=white&style=for-the-badge" alt="shopify badge" />
+  <img src="https://img.shields.io/badge/-BigCommerce-121118?logo=bigcommerce&logoColor=white&style=for-the-badge" alt="bigcommerce badge" />
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="git badge" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="git badge" />
   <img src="https://img.shields.io/badge/-Creative Cloud-DA1F26?logo=adobecreativecloud&logoColor=white&style=for-the-badge" alt="creative cloud badge" />
 </span>
-
-----
-
-I'm a professional web designer, developer, and marketer. I love to write and create content, and I build websites that are fast, responsive, intuitive, and dynamic.
-
------
-
-Skills:
-
-- JavaScript/TypeScript
-- React/Next.js
-- Node.js
-- HTML
-- CSS
-- Firebase
-- GraphQL
-- Flamelink/Contentful
-- Shopify/BigCommerce
-- Git/GitHub
-- SEO/Digital Marketing
-- UI/UX Design
-- Adobe Creative Cloud (InDesign, Photoshop, Premier Pro, Illustrator, XD)
 
 -----
 <a href="https://github.com/zachary-horvath">
