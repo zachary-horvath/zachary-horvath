@@ -1,6 +1,8 @@
 
 ## Hello, I'm [Zachary Horvath](https://www.zacharyhorvath.io).
 
+(https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+
 ----
 
 I'm a professional web designer, developer, and marketer. I love to write and create content, and I build websites that are fast, responsive, intuitive, and dynamic.
