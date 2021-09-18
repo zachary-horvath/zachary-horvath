@@ -1,5 +1,5 @@
 
-# Hello, I'm [Zachary Horvath](https://www.zacharyhorvath.io).
+## Hello, I'm [Zachary Horvath](https://www.zacharyhorvath.io).
 
 ----
 
