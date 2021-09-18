@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/-TypeScript-007acc?logo=typescript&logoColor=white&style=for-the-badge" alt="javascript badge" />
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="react badge" />
   <img src="https://img.shields.io/badge/-Next.js-666666?logo=nextdotjs&logoColor=white&style=for-the-badge" alt="next.js badge" />
+  <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="next.js badge" />
 </span>
 
 ----
