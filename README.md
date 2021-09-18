@@ -10,7 +10,7 @@ I'm a professional web designer, developer, and marketer. I love to write and cr
 Skills:
 
 <span>
-  <img src="https://img.shields.io/badge/-JavaScript-f7df1e?logo=javascript&logoColor=black&style=for-the-badge" alt="javascript badge" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="javascript badge" />
   <img src="https://img.shields.io/badge/-TypeScript-007acc?logo=typescript&logoColor=white&style=for-the-badge" alt="typescript badge" />
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="react badge" />
   <img src="https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" alt="next.js badge" />
