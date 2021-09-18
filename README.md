@@ -1,7 +1,7 @@
 
 ## Hello, I'm [Zachary Horvath](https://www.zacharyhorvath.io).
 
-(https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="react badge" />
 
 ----
 
