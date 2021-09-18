@@ -7,7 +7,7 @@ I'm a professional web designer, developer, and marketer. I love to write and cr
 
 -----
 
-Skills:
+#### Skills:
 
 <span>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="javascript badge" />
@@ -40,10 +40,6 @@ Skills:
 </span>
 
 -----
-<a href="https://github.com/zachary-horvath">
-  <img src="https://komarev.com/ghpvc/?username=zachary-horvath&style=flat-square" />
-</a>
-
 
 ***
 
