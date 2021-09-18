@@ -55,7 +55,7 @@ Skills:
 
 -----
 
-Feel free to contact me via my portfolio.
+Feel free to contact me via my [portfolio](https://www.zacharyhorvath.io).
 
 Thanks for visiting!
 
