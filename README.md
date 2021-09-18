@@ -17,6 +17,7 @@ Skills:
   <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="html badge" />
   <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="css badge" />
   <img src="https://img.shields.io/badge/-Styled Components-DB7093?logo=styledcomponents&logoColor=white&style=for-the-badge" alt="styled-components badge" />
+  <img src="https://img.shields.io/badge/-Tailwind CSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge" alt="styled-components badge" />
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="node.js badge" />
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" alt="firebase badge" />
   <img src="https://img.shields.io/badge/-Google Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" alt="google cloud badge" />
