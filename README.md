@@ -1,7 +1,7 @@
 
 #### Hello, I'm [Zachary Horvath](https://www.zacharyhorvath.io).
 
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/zacharyhorvath/]
+[![LinkedIn][https://img.shields.io/endpoint?url=<https://www.linkedin.com/in/zacharyhorvath/>&style<linkedin>]][https://www.linkedin.com/in/zacharyhorvath/]
 
 ----
 
