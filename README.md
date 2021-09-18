@@ -41,11 +41,9 @@ Skills:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zachary-horvath&layout=compact" />
 </a>
 
-
-Feel free to contact me via my portfolio.
-
 -----
 
+Feel free to contact me via my portfolio.
 
 Thanks for visiting!
 
