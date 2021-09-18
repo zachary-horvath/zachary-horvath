@@ -1,6 +1,8 @@
 
 #### Hello, I'm [Zachary Horvath](https://www.zacharyhorvath.io).
 
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/zacharyhorvath/]
+
 ----
 
 I'm a professional web designer, developer, and marketer. I love to write and create content, and I build websites that are fast, responsive, intuitive, and dynamic.
@@ -49,4 +51,4 @@ Feel free to contact me via my portfolio.
 
 Thanks for visiting!
 
-👨‍💻 From [zachary-horvath](https://github.com/zachary-horvath)
+👨‍💻 Developed by [zachary-horvath](https://github.com/zachary-horvath).
