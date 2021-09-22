@@ -39,7 +39,7 @@ I'm a professional web designer, developer, and marketer. I love to write and cr
   <img src="https://img.shields.io/badge/-Adobe Creative Cloud-DA1F26?logo=adobecreativecloud&logoColor=white&style=for-the-badge" alt="creative cloud badge" />
 </span>
 
------
+---
 
 <a href="https://github.com/zachary-horvath">
   <img src="https://komarev.com/ghpvc/?username=zachary-horvath&style=flat-square" />
