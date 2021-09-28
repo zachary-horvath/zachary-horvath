@@ -19,6 +19,7 @@ I'm a professional web designer, developer, and marketer. I love to write and cr
   <img src="https://img.shields.io/badge/-Styled Components-DB7093?logo=styledcomponents&logoColor=white&style=for-the-badge" alt="styled-components badge" />
   <img src="https://img.shields.io/badge/-Tailwind CSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge" alt="styled-components badge" />
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="node.js badge" />
+  <img src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white&style=for-the-badge" alt="npm badge" />
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" alt="firebase badge" />
   <img src="https://img.shields.io/badge/-Google Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" alt="google cloud badge" />
   <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" alt="aws badge" />
@@ -28,11 +29,11 @@ I'm a professional web designer, developer, and marketer. I love to write and cr
   <img src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge" alt="graphql badge" />
   <img src="https://img.shields.io/badge/-Contentful-2478CC?logo=graphql&logoColor=white&style=for-the-badge" alt="contentful badge" />
   <img src="https://img.shields.io/badge/-Strapi-2F2E8B?logo=strapi&logoColor=white&style=for-the-badge" alt="strapi badge" />
-  <img src="https://img.shields.io/badge/-Stripe-008CDD?logo=stripe&logoColor=white&style=for-the-badge" alt="strapi badge" />
+  <img src="https://img.shields.io/badge/-Stripe-008CDD?logo=stripe&logoColor=white&style=for-the-badge" alt="stripe badge" />
   <img src="https://img.shields.io/badge/-Shopify-7AB55C?logo=shopify&logoColor=white&style=for-the-badge" alt="shopify badge" />
   <img src="https://img.shields.io/badge/-BigCommerce-121118?logo=bigcommerce&logoColor=white&style=for-the-badge" alt="bigcommerce badge" />
   <img src="https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black&style=for-the-badge" alt="webpack badge" />
-  <img src="https://img.shields.io/badge/-Google Analytics-E37400?logo=googleanalytics&logoColor=white&style=for-the-badge" alt="webpack badge" />
+  <img src="https://img.shields.io/badge/-Google Analytics-E37400?logo=googleanalytics&logoColor=white&style=for-the-badge" alt="google analytics badge" />
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="git badge" />
   <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="github badge" />
   <img src="https://img.shields.io/badge/-Framer-0055FF?logo=framer&logoColor=white&style=for-the-badge" alt="framer badge" />
