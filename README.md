@@ -27,7 +27,7 @@ I'm a professional web designer, developer, and marketer. I love to write and cr
   <img src="https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" alt="prisma badge" />
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" alt="postgresql badge" />
   <img src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge" alt="graphql badge" />
-    <img src="https://img.shields.io/badge/-Apollo GraphQL-311C87?logo=apollographql&logoColor=white&style=for-the-badge" alt="apollo graphql badge" />
+  <img src="https://img.shields.io/badge/-Apollo GraphQL-311C87?logo=apollographql&logoColor=white&style=for-the-badge" alt="apollo graphql badge" />
   <img src="https://img.shields.io/badge/-Contentful-2478CC?logo=graphql&logoColor=white&style=for-the-badge" alt="contentful badge" />
   <img src="https://img.shields.io/badge/-Strapi-2F2E8B?logo=strapi&logoColor=white&style=for-the-badge" alt="strapi badge" />
   <img src="https://img.shields.io/badge/-Stripe-008CDD?logo=stripe&logoColor=white&style=for-the-badge" alt="stripe badge" />
