@@ -29,6 +29,7 @@ I'm a professional web designer, developer, and marketer. I love to write and cr
   <img src="https://img.shields.io/badge/-Amazon S3-569A31?logo=amazons3&logoColor=white&style=for-the-badge" alt="amazon s3 badge" />
   <img src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge" alt="graphql badge" />
   <img src="https://img.shields.io/badge/-Apollo GraphQL-311C87?logo=apollographql&logoColor=white&style=for-the-badge" alt="apollo graphql badge" />
+  <img src="https://img.shields.io/badge/-Flamelink-ff6633?logo=bandcamp&logoColor=white&style=for-the-badge" alt="flamelink badge" />
   <img src="https://img.shields.io/badge/-Contentful-2478CC?logo=graphql&logoColor=white&style=for-the-badge" alt="contentful badge" />
   <img src="https://img.shields.io/badge/-Strapi-2F2E8B?logo=strapi&logoColor=white&style=for-the-badge" alt="strapi badge" />
   <img src="https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" alt="wordpress badge" />
