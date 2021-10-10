@@ -45,6 +45,7 @@ I'm a professional web designer, developer, and marketer. I love to write and cr
   <img src="https://img.shields.io/badge/-Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" alt="visual studio code badge" />
   <img src="https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" alt="jira badge" />
   <img src="https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=for-the-badge" alt="notion badge" />
+  <img src="https://img.shields.io/badge/-Microsoft Office-D83B01?logo=microsoftoffice&logoColor=white&style=for-the-badge" alt="microsoft office badge" />
 </span>
 
 ---
