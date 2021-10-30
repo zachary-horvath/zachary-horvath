@@ -18,6 +18,7 @@ I'm a professional web designer, developer, and marketer. I love to write and cr
   <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="css badge" />
   <img src="https://img.shields.io/badge/-Styled Components-DB7093?logo=styledcomponents&logoColor=white&style=for-the-badge" alt="styled-components badge" />
   <img src="https://img.shields.io/badge/-Tailwind CSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge" alt="tailwind css badge" />
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" alt="bootstrap badge" />
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="node.js badge" />
   <img src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white&style=for-the-badge" alt="npm badge" />
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" alt="firebase badge" />
