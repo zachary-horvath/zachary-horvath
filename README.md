@@ -3,7 +3,7 @@
 
 ----
 
-<span>I'm a professional web designer, developer, and marketer. I love to write and create content, and I build websites that are fast, responsive, intuitive, and dynamic.<img src="https://media.giphy.com/media/xThuWtXWlxrrRtK3cc/giphy.gif" alt="code gif" width="30%" height="30%" /></span>
+<div>I'm a professional web designer, developer, and marketer. I love to write and create content, and I build websites that are fast, responsive, intuitive, and dynamic.<span><img src="https://media.giphy.com/media/xThuWtXWlxrrRtK3cc/giphy.gif" alt="code gif" width="30%" height="30%" /></span></div>
 
 -----
 
