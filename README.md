@@ -1,7 +1,7 @@
 
 ## Hello, I'm [Zachary Horvath](https://www.zacharyhorvath.io). 
 
-<span align-items="center"><img src="https://media.giphy.com/media/xThuWtXWlxrrRtK3cc/giphy.gif" alt="code gif" /></span>
+<img src="https://media.giphy.com/media/xThuWtXWlxrrRtK3cc/giphy.gif" alt="code gif" width="20%" height="20%" />
 
 ----
 
