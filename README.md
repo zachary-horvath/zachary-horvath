@@ -1,5 +1,7 @@
 
-## Hello, I'm [Zachary Horvath](https://www.zacharyhorvath.io).
+## Hello, I'm [Zachary Horvath](https://www.zacharyhorvath.io). 
+
+<img src="https://media.giphy.com/media/B6IBrYTyvo1UJOXF9u/giphy.gif" alt="code gif" />
 
 ----
 
