@@ -81,7 +81,9 @@ Thanks for visiting! <br/>
   <img src="https://komarev.com/ghpvc/?username=zachary-horvath&style=flat-square" />
 </a> <br/>
 
-<br/> 👨‍💻 Developed by [zachary-horvath](https://github.com/zachary-horvath). <br/>
+---
+
+👨‍💻 Developed by [zachary-horvath](https://github.com/zachary-horvath). <br/>
 
 <a href="https://www.buymeacoffee.com/zacharyhorvath" target="\_blank" rel="noopener">
   <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=zacharyhorvath&button_colour=444444&font_colour=FFFFFF&font_family=Cookie&outline_colour=FFFFFF&coffee_colour=FFDD00" alt="Buy Me A Coffee Button" />
