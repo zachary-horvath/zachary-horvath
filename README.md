@@ -68,7 +68,7 @@ I'm a professional web designer, developer, and marketer. I love to write and cr
 ---
 
 <a href="https://github.com/zachary-horvath">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zachary-horvath&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zachary-horvathe&hide_border=true&theme=dark" />
 </a>
 
 -----
