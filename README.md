@@ -73,7 +73,7 @@ I'm a professional web designer, developer, and marketer. I love to write and cr
 
 -----
 
-Feel free to contact me via my [portfolio](https://www.zacharyhorvath.io).
+Learn more about me on my [portfolio](https://www.zacharyhorvath.io).
 
 Thanks for visiting! <br/>
 
