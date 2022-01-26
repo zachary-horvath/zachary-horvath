@@ -42,6 +42,7 @@ I'm a professional web designer, developer, and marketer. I love to write and cr
   <img src="https://img.shields.io/badge/-Shopify-7AB55C?logo=shopify&logoColor=white&style=for-the-badge" alt="shopify badge" />
   <img src="https://img.shields.io/badge/-BigCommerce-121118?logo=bigcommerce&logoColor=white&style=for-the-badge" alt="bigcommerce badge" />
   <img src="https://img.shields.io/badge/-Auth0-EB5424?logo=auth0&logoColor=white&style=for-the-badge" alt="auth0 badge" />
+  <img src="https://img.shields.io/badge/-Sentry-362D59?logo=sentry&logoColor=white&style=for-the-badge" alt="sentry badge" />
   <img src="https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black&style=for-the-badge" alt="webpack badge" />
   <img src="https://img.shields.io/badge/-Google Analytics-E37400?logo=googleanalytics&logoColor=white&style=for-the-badge" alt="google analytics badge" />
   <img src="https://img.shields.io/badge/-Segment-068465?logo=twilio&logoColor=white&style=for-the-badge" alt="segment badge" />
