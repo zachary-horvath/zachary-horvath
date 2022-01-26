@@ -48,7 +48,6 @@ I'm a professional web designer, developer, and marketer. I love to write and cr
   <img src="https://img.shields.io/badge/-Segment-068465?logo=twilio&logoColor=white&style=for-the-badge" alt="segment badge" />
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="git badge" />
   <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="github badge" />
-  <img src="https://img.shields.io/badge/-Bitbucket-0052CC?logo=bitbucket&logoColor=white&style=for-the-badge" alt="bitbucket badge" />
   <img src="https://img.shields.io/badge/-Framer-0055FF?logo=framer&logoColor=white&style=for-the-badge" alt="framer badge" />
   <img src="https://img.shields.io/badge/-Adobe Creative Cloud-DA1F26?logo=adobecreativecloud&logoColor=white&style=for-the-badge" alt="creative cloud badge" />
   <img src="https://img.shields.io/badge/-Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" alt="visual studio code badge" />
