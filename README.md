@@ -77,11 +77,11 @@ Learn more about me on my [portfolio](https://www.zacharyhorvath.io).
 Thanks for visiting! <br/>
 
 <a href="https://github.com/zachary-horvath">
-  <img src="https://img.shields.io/github/followers/zachary-horvath?label=GitHub%20Followers&style=flat-square" alt="github followers" />
+  <img src="https://img.shields.io/github/followers/zachary-horvath?label=GitHub%20followers&style=flat-square" alt="github followers" />
 </a> <br/>
 
 <a href="https://www.youtube.com/channel/UC1z5k-70g4xXk13hpSAKAGg">
-  <img src="https://img.shields.io/youtube/channel/subscribers/UC1z5k-70g4xXk13hpSAKAGg?label=YouTube%20Subscribers&style=flat-square" alt="youtube subscribers" />
+  <img src="https://img.shields.io/youtube/channel/subscribers/UC1z5k-70g4xXk13hpSAKAGg?label=YouTube%20subscribers&style=flat-square" alt="youtube subscribers" />
 </a> <br/>
 
 <a href="https://github.com/zachary-horvath">
