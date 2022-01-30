@@ -76,9 +76,13 @@ Learn more about me on my [portfolio](https://www.zacharyhorvath.io).
 
 Thanks for visiting! <br/>
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCJae_agpt9S3qwWNED0KHcQ?label=YouTube%20Subscribers!&style=social)](https://www.youtube.com/channel/UC1z5k-70g4xXk13hpSAKAGg?sub_confirmation=1)
-<!-- [![Twitter Followers](https://img.shields.io/twitter/follow/zacharyhorvath?label=Twitter%20Followers!&style=social)](https://twitter.com/intent/follow?screen_name=zacharyhorvath) -->
-[![GitHub Followers](https://img.shields.io/github/followers/zachary-horvath?label=GitHub%20Followers!&style=social)](https://github.com/zachary-horvath)
+<a href="https://github.com/zachary-horvath">
+  <img src="https://img.shields.io/github/followers/zachary-horvath?style=social" alt="github followers" />
+</a> <br/>
+
+<a href="https://www.youtube.com/channel/UC1z5k-70g4xXk13hpSAKAGg">
+  <img src="https://img.shields.io/youtube/channel/subscribers/UC1z5k-70g4xXk13hpSAKAGg?style=social" alt="youtube subscribers" />
+</a> <br/>
 
 <a href="https://github.com/zachary-horvath">
   <img src="https://komarev.com/ghpvc/?username=zachary-horvath&style=flat-square" />
