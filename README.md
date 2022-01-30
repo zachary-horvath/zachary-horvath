@@ -76,19 +76,17 @@ Learn more about me on my [portfolio](https://www.zacharyhorvath.io).
 
 Thanks for visiting! <br/>
 
-<span>
-  <a href="https://github.com/zachary-horvath">
-    <img src="https://img.shields.io/github/followers/zachary-horvath?label=GitHub%20Followers&style=flat-square" alt="github followers" />
-  </a> <br/>
+<a href="https://github.com/zachary-horvath">
+  <img src="https://img.shields.io/github/followers/zachary-horvath?label=GitHub%20Followers&style=flat-square" alt="github followers" />
+</a> <br/>
 
-  <a href="https://www.youtube.com/channel/UC1z5k-70g4xXk13hpSAKAGg">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UC1z5k-70g4xXk13hpSAKAGg?label=YouTube%20Subscribers&style=flat-square" alt="youtube subscribers" />
-  </a> <br/>
+<a href="https://www.youtube.com/channel/UC1z5k-70g4xXk13hpSAKAGg">
+  <img src="https://img.shields.io/youtube/channel/subscribers/UC1z5k-70g4xXk13hpSAKAGg?label=YouTube%20Subscribers&style=flat-square" alt="youtube subscribers" />
+</a> <br/>
 
-  <a href="https://github.com/zachary-horvath">
-    <img src="https://komarev.com/ghpvc/?username=zachary-horvath&style=flat-square" />
-  </a> <br/>
-</span>
+<a href="https://github.com/zachary-horvath">
+  <img src="https://komarev.com/ghpvc/?username=zachary-horvath&style=flat-square" />
+</a> <br/>
 
 ---
 
