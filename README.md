@@ -80,4 +80,4 @@ Thanks for visiting! <br/>
 
 <a href="https://github.com/zachary-horvath">
   <img src="https://komarev.com/ghpvc/?username=zachary-horvath&style=flat-square" />
-</a> <br/>
+</a>
