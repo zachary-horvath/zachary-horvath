@@ -72,14 +72,12 @@ I'm a professional web designer, developer, and marketer. I love to write and cr
 
 -----
 
-Learn more about me on my [portfolio](https://www.zacharyhorvath.io).
+Learn more about me on my [portfolio](https://www.zacharyhorvath.io). <br/>
+
+👨‍💻 Developed by [zachary-horvath](https://github.com/zachary-horvath). <br/>
 
 Thanks for visiting! <br/>
 
 <a href="https://github.com/zachary-horvath">
   <img src="https://komarev.com/ghpvc/?username=zachary-horvath&style=flat-square" />
 </a> <br/>
-
----
-
-👨‍💻 Developed by [zachary-horvath](https://github.com/zachary-horvath). <br/>
