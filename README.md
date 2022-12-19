@@ -32,6 +32,7 @@ I'm a professional web designer, developer, and marketer. I love to write and cr
   <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="mongodb badge" />
   <img src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge" alt="graphql badge" />
   <img src="https://img.shields.io/badge/-Apollo-311C87?logo=apollographql&logoColor=white&style=for-the-badge" alt="apollo graphql badge" />
+  <img src="https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=white&style=for-the-badge" alt="axios badge" />
   <img src="https://img.shields.io/badge/-Hasura-1EB4D4?logo=hasura&logoColor=white&style=for-the-badge" alt="hasura badge" />
   <img src="https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" alt="prisma badge" />
   <img src="https://img.shields.io/badge/-Flamelink-ff6633?logo=bandcamp&logoColor=white&style=for-the-badge" alt="flamelink badge" />
