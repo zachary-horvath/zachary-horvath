@@ -5,7 +5,7 @@
 
 ----
 
-I'm a professional web designer, developer, and consultant. I love to write and create content, and I build websites that are fast, responsive, intuitive, and dynamic.
+I'm a professional web designer, developer, and marketer. I love to write and create content, and I build websites that are fast, responsive, intuitive, and dynamic.
 
 -----
 
