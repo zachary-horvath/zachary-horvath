@@ -64,13 +64,13 @@ I'm a professional web designer, developer, and marketer. I love to write and cr
 ---
 
 <a href="https://github.com/zachary-horvath">
-  <img src="https://github-readme-stats.vercel.app/api?username=zachary-horvath&count_private=true&show_icons=true&hide_border=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zachary-horvath&count_private=true&show_icons=true&hide_border=true&theme=transparent" />
 </a>
 
 ---
 
 <a href="https://github.com/zachary-horvath">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zachary-horvath&count_private=true&hide_border=true&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zachary-horvath&count_private=true&hide_border=true&layout=compact&theme=transparent" />
 </a>
 
 -----
