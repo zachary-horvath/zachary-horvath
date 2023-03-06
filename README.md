@@ -59,6 +59,7 @@ I'm a full-stack web designer, developer, and marketer. I love to write and crea
   <img src="https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=for-the-badge" alt="notion badge" />
   <img src="https://img.shields.io/badge/-Microsoft Office-D83B01?logo=microsoftoffice&logoColor=white&style=for-the-badge" alt="microsoft office badge" />
   <img src="https://img.shields.io/badge/-iCloud-3693F3?logo=icloud&logoColor=white&style=for-the-badge" alt="icloud badge" />
+  <img src="https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge" alt="OpenAI badge" />
 </span>
 
 ---
