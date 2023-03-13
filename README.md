@@ -70,9 +70,9 @@ I'm a full-stack web designer, developer, and marketer. I love to write and crea
 
 ---
 
-<a href="https://github.com/zachary-horvath">
+<!-- <a href="https://github.com/zachary-horvath">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zachary-horvath&count_private=true&hide_border=true&layout=compact&theme=transparent" />
-</a>
+</a> -->
 
 -----
 
