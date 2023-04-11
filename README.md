@@ -1,5 +1,5 @@
 
-<img src="https://firebasestorage.googleapis.com/v0/b/portfolio-83773.appspot.com/o/Media%2FProjects%2FPortfolio%2FV5%2Fbanner-github.png?alt=media&token=2157dde2-ab6e-4b37-a72d-b31f3a9e355a" alt="zachary horvath banner" width="100%" />
+<img src="https://firebasestorage.googleapis.com/v0/b/portfolio-83773.appspot.com/o/Media%2FProjects%2FPortfolio%2FV5%2Fbanner-github.png?alt=media&token=d6055ce2-d92a-40a6-89cb-5f593a89a12c" alt="zachary horvath banner" width="100%" />
 
 ## Hello, I'm [Zachary Horvath](https://www.zacharyhorvath.io).
 
