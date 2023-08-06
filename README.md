@@ -4,7 +4,7 @@
 
 ----
 
-I'm a self-taught product developer, solopreneur, & educator. I love to write and create content, and I build websites that are fast, responsive, intuitive, and dynamic.
+I'm a self-taught product developer, solopreneur, and educator. I love to write and create content, and I build websites that are fast, responsive, intuitive, and dynamic.
 
 -----
 
