@@ -1,8 +1,8 @@
 [<img src="https://firebasestorage.googleapis.com/v0/b/portfolio-83773.appspot.com/o/Media%2FProjects%2FPortfolio%2FV5%2Fbanner-github-space.png?alt=media&token=8bf3cb05-a7da-4cb5-bb53-f40dd8f927cd" alt="zachary horvath banner" width="100%" />](https://www.zacharyhorvath.io)
 
-## Hello, I'm [Zachary Horvath](https://www.zacharyhorvath.io).
+<!-- ## Hello, I'm [Zachary Horvath](https://www.zacharyhorvath.io).
 
-----
+---- -->
 
 I'm a self-taught product developer, solopreneur, and educator. I love to write and create content, and I build websites that are fast, responsive, intuitive, and dynamic.
 
