@@ -78,8 +78,6 @@ I'm a self-taught product developer, solopreneur, and educator. I love to write 
 
 Learn more about me on my [portfolio](https://www.zacharyhorvath.io). <br/>
 
-👨‍💻 Developed by [zachary-horvath](https://github.com/zachary-horvath). <br/>
-
 Thanks for visiting! <br/>
 
 <a href="https://github.com/zachary-horvath">
