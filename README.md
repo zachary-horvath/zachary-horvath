@@ -4,7 +4,7 @@
 
 ---- -->
 
-I'm a product developer, solopreneur, and educator. I love to write and create content, and I build websites that are fast, responsive, intuitive, and dynamic.
+I'm a software engineer. I love to write and create content, and I build websites that are fast, responsive, intuitive, and dynamic.
 
 -----
 
