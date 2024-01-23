@@ -36,6 +36,7 @@ I'm a software engineer. I love to write and create content, and I build website
   <img src="https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" alt="prisma badge" />
   <img src="https://img.shields.io/badge/-Flamelink-ff6633?logo=bandcamp&logoColor=white&style=for-the-badge" alt="flamelink badge" />
   <img src="https://img.shields.io/badge/-Contentful-2478CC?logo=graphql&logoColor=white&style=for-the-badge" alt="contentful badge" />
+  <img src="https://img.shields.io/badge/-Contentstack-E74C3D?logo=contentstack&logoColor=white&style=for-the-badge" alt="contentstack badge" />
   <img src="https://img.shields.io/badge/-Strapi-2F2E8B?logo=strapi&logoColor=white&style=for-the-badge" alt="strapi badge" />
   <img src="https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" alt="wordpress badge" />
   <img src="https://img.shields.io/badge/-HubSpot-FF7A59?logo=hubspot&logoColor=white&style=for-the-badge" alt="hubspot badge" />
