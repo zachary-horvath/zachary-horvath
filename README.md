@@ -25,7 +25,6 @@ I'm a software engineer. I build composable websites that are fast, responsive, 
   <img src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white&style=for-the-badge" alt="npm badge" />
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" alt="firebase badge" />
   <img src="https://img.shields.io/badge/-Google Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" alt="google cloud badge" />
-  <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" alt="aws badge" />
   <img src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white&style=for-the-badge" alt="heroku badge" />
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" alt="postgresql badge" />
   <img src="https://img.shields.io/badge/-Amazon S3-569A31?logo=amazons3&logoColor=white&style=for-the-badge" alt="amazon s3 badge" />
