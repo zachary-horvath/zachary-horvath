@@ -59,7 +59,6 @@ I'm a software engineer. I build composable websites that are fast, responsive, 
   <img src="https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" alt="jira badge" />
   <img src="https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=for-the-badge" alt="notion badge" />
   <img src="https://img.shields.io/badge/-Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge" alt="trello badge" />
-  <img src="https://img.shields.io/badge/-Microsoft Office-D83B01?logo=microsoftoffice&logoColor=white&style=for-the-badge" alt="microsoft office badge" />
   <img src="https://img.shields.io/badge/-iCloud-3693F3?logo=icloud&logoColor=white&style=for-the-badge" alt="icloud badge" />
   <img src="https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge" alt="OpenAI badge" />
 </span>
