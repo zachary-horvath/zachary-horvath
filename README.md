@@ -63,12 +63,13 @@ I'm a software engineer. I build composable websites that are fast, responsive, 
   <img src="https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge" alt="OpenAI badge" />
 </span>
 
+<!-- 
 ---
 
 <a href="https://github.com/zachary-horvath">
   <img src="https://github-readme-stats.vercel.app/api?username=zachary-horvath&count_private=true&show_icons=true&hide_border=true&theme=transparent" />
 </a>
-<!-- 
+
 ---
 
 <a href="https://github.com/zachary-horvath">
