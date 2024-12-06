@@ -1,9 +1,5 @@
 [<img src="https://firebasestorage.googleapis.com/v0/b/portfolio-83773.appspot.com/o/Media%2FProjects%2FPortfolio%2FV5%2Fbanner-github-space.png?alt=media&token=8bf3cb05-a7da-4cb5-bb53-f40dd8f927cd" alt="zachary horvath banner" width="100%" />](https://www.zacharyhorvath.io)
 
-<!-- ## Hello, I'm [Zachary Horvath](https://www.zacharyhorvath.io).
-
----- -->
-
 I'm a software engineer. I build composable websites that are fast, responsive, intuitive, and dynamic.
 
 -----
@@ -62,19 +58,6 @@ I'm a software engineer. I build composable websites that are fast, responsive, 
   <img src="https://img.shields.io/badge/-iCloud-3693F3?logo=icloud&logoColor=white&style=for-the-badge" alt="icloud badge" />
   <img src="https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge" alt="OpenAI badge" />
 </span>
-
-<!-- 
----
-
-<a href="https://github.com/zachary-horvath">
-  <img src="https://github-readme-stats.vercel.app/api?username=zachary-horvath&count_private=true&show_icons=true&hide_border=true&theme=transparent" />
-</a>
-
----
-
-<a href="https://github.com/zachary-horvath">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zachary-horvath&count_private=true&hide_border=true&layout=compact&theme=transparent" />
-</a> -->
 
 -----
 
