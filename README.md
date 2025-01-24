@@ -36,6 +36,7 @@ I'm a software engineer. I build composable websites that are fast, responsive, 
   <img src="https://img.shields.io/badge/-Contentstack-E74C3D?logo=contentstack&logoColor=white&style=for-the-badge" alt="contentstack badge" />
   <img src="https://img.shields.io/badge/-Strapi-2F2E8B?logo=strapi&logoColor=white&style=for-the-badge" alt="strapi badge" />
   <img src="https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" alt="wordpress badge" />
+  <img src="https://img.shields.io/badge/-Sitecore-eb1f1f?logo=sitecore&logoColor=white&style=for-the-badge" alt="sitecore badge" />
   <img src="https://img.shields.io/badge/-HubSpot-FF7A59?logo=hubspot&logoColor=white&style=for-the-badge" alt="hubspot badge" />
   <img src="https://img.shields.io/badge/-Stripe-008CDD?logo=stripe&logoColor=white&style=for-the-badge" alt="stripe badge" />
   <img src="https://img.shields.io/badge/-Shopify-7AB55C?logo=shopify&logoColor=white&style=for-the-badge" alt="shopify badge" />
