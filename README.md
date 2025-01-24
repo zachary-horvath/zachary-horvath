@@ -50,7 +50,7 @@ I'm a software engineer. I build composable websites that are fast, responsive, 
   <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="github badge" />
   <img src="https://img.shields.io/badge/-Framer-0055FF?logo=framer&logoColor=white&style=for-the-badge" alt="framer badge" />
   <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" alt="figma badge" />
-  <img src="https://img.shields.io/badge/-Adobe Creative Cloud-DA1F26?logo=adobe&logoColor=white&style=for-the-badge" alt="creative cloud badge" />
+  <img src="https://img.shields.io/badge/-Adobe Creative Cloud-DA1F26?logo=adobecreativecloud&logoColor=white&style=for-the-badge" alt="creative cloud badge" />
   <img src="https://img.shields.io/badge/-Google Chrome-4285F4?logo=googlechrome&logoColor=white&style=for-the-badge" alt="google chrome badge" />
   <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" alt="postman badge" />
   <img src="https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" alt="jira badge" />
