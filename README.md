@@ -10,6 +10,7 @@ I'm a software engineer. I build composable websites that are fast, responsive, 
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="javascript badge" />
   <img src="https://img.shields.io/badge/-TypeScript-007acc?logo=typescript&logoColor=white&style=for-the-badge" alt="typescript badge" />
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="react badge" />
+  <img src="https://img.shields.io/badge/-React Native-61DAFB?logo=reactnative&logoColor=black&style=for-the-badge" alt="react native badge" />
   <img src="https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" alt="next.js badge" />
   <img src="https://img.shields.io/badge/-Angular-0f0f11?logo=angular&logoColor=white&style=for-the-badge" alt="angular badge" />
   <img src="https://img.shields.io/badge/-PHP-8993be?logo=php&logoColor=white&style=for-the-badge" alt="php badge" />
