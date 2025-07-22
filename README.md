@@ -47,6 +47,7 @@ I'm a software engineer. I build composable websites that are fast, responsive, 
   <img src="https://img.shields.io/badge/-Sentry-362D59?logo=sentry&logoColor=white&style=for-the-badge" alt="sentry badge" />
   <img src="https://img.shields.io/badge/-Google Analytics-E37400?logo=googleanalytics&logoColor=white&style=for-the-badge" alt="google analytics badge" />
   <img src="https://img.shields.io/badge/-Segment-068465?logo=twilio&logoColor=white&style=for-the-badge" alt="segment badge" />
+  <img src="https://img.shields.io/badge/-Lytics-E74C3D?logo=contentstack&logoColor=white&style=for-the-badge" alt="lytics badge" />
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="git badge" />
   <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="github badge" />
   <img src="https://img.shields.io/badge/-Framer-0055FF?logo=framer&logoColor=white&style=for-the-badge" alt="framer badge" />
