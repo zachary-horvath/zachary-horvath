@@ -17,7 +17,7 @@ I'm a senior software engineer. I build composable websites that are fast, respo
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="node.js badge" />
   <img src="https://img.shields.io/badge/-PHP-8993be?logo=php&logoColor=white&style=for-the-badge" alt="php badge" />
   <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="html badge" />
-  <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" alt="css badge" />
+  <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="css badge" />
   <img src="https://img.shields.io/badge/-Tailwind CSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge" alt="tailwind css badge" />
   <img src="https://img.shields.io/badge/-Styled Components-DB7093?logo=styledcomponents&logoColor=white&style=for-the-badge" alt="styled-components badge" />
   <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" alt="bootstrap badge" />
@@ -34,7 +34,7 @@ I'm a senior software engineer. I build composable websites that are fast, respo
 
   <!-- CMS & Platforms -->
   <img src="https://img.shields.io/badge/-Contentstack-E74C3D?logo=contentstack&logoColor=white&style=for-the-badge" alt="contentstack badge" />
-  <img src="https://img.shields.io/badge/-Contentful-2478CC?logo=graphql&logoColor=white&style=for-the-badge" alt="contentful badge" />
+  <img src="https://img.shields.io/badge/-Contentful-2478CC?logo=contentful&logoColor=white&style=for-the-badge" alt="contentful badge" />
   <img src="https://img.shields.io/badge/-Strapi-2F2E8B?logo=strapi&logoColor=white&style=for-the-badge" alt="strapi badge" />
   <img src="https://img.shields.io/badge/-Sanity-F03E2F?logo=sanity&logoColor=white&style=for-the-badge" alt="sanity badge" />
   <img src="https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" alt="wordpress badge" />
@@ -58,6 +58,14 @@ I'm a senior software engineer. I build composable websites that are fast, respo
   <img src="https://img.shields.io/badge/-Algolia-003DFF?logo=algolia&logoColor=white&style=for-the-badge" alt="algolia badge" />
   <img src="https://img.shields.io/badge/-Segment-068465?logo=twilio&logoColor=white&style=for-the-badge" alt="segment badge" />
   <img src="https://img.shields.io/badge/-Lytics-E74C3D?logo=contentstack&logoColor=white&style=for-the-badge" alt="lytics badge" />
+
+  <!-- Experimentation & Analytics -->
+  <img src="https://img.shields.io/badge/-Google Optimize-DC463A?logo=googleoptimize&logoColor=white&style=for-the-badge" alt="google optimize badge" />
+  <img src="https://img.shields.io/badge/-Optimizely-2D9CDB?logo=optimizely&logoColor=white&style=for-the-badge" alt="optimizely badge" />
+  <img src="https://img.shields.io/badge/-VWO-4F4F4F?logo=vwo&logoColor=white&style=for-the-badge" alt="vwo badge" />
+  <img src="https://img.shields.io/badge/-LaunchDarkly-1F2937?logo=launchdarkly&logoColor=white&style=for-the-badge" alt="launchdarkly badge" />
+  <img src="https://img.shields.io/badge/-Google Analytics-E37400?logo=googleanalytics&logoColor=white&style=for-the-badge" alt="google analytics badge" />
+  <img src="https://img.shields.io/badge/-Amplitude-1E62F9?logo=amplitude&logoColor=white&style=for-the-badge" alt="amplitude badge" />
 
   <!-- Design & Collaboration -->
   <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" alt="figma badge" />
