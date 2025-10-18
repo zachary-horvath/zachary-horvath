@@ -60,7 +60,6 @@ I'm a senior software engineer. I build composable websites that are fast, respo
   <img src="https://img.shields.io/badge/-Lytics-E74C3D?logo=contentstack&logoColor=white&style=for-the-badge" alt="lytics badge" />
 
   <!-- Experimentation & Analytics -->
-  <img src="https://img.shields.io/badge/-VWO-4F4F4F?logo=vwo&logoColor=white&style=for-the-badge" alt="vwo badge" />
   <img src="https://img.shields.io/badge/-LaunchDarkly-1F2937?logo=launchdarkly&logoColor=white&style=for-the-badge" alt="launchdarkly badge" />
   <img src="https://img.shields.io/badge/-Google Analytics-E37400?logo=googleanalytics&logoColor=white&style=for-the-badge" alt="google analytics badge" />
   <img src="https://img.shields.io/badge/-Amplitude-1E62F9?logo=amplitude&logoColor=white&style=for-the-badge" alt="amplitude badge" />
