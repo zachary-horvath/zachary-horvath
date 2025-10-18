@@ -49,8 +49,8 @@ I'm a senior software engineer. I build composable websites that are fast, respo
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="git badge" />
   <img src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white&style=for-the-badge" alt="npm badge" />
   <img src="https://img.shields.io/badge/-Google Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" alt="google cloud badge" />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" alt="aws badge" />
   <img src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white&style=for-the-badge" alt="heroku badge" />
-  <img src="https://img.shields.io/badge/-Amazon S3-569A31?logo=amazons3&logoColor=white&style=for-the-badge" alt="amazon s3 badge" />
   <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" alt="postman badge" />
   <img src="https://img.shields.io/badge/-Sentry-362D59?logo=sentry&logoColor=white&style=for-the-badge" alt="sentry badge" />
   <img src="https://img.shields.io/badge/-Auth0-EB5424?logo=auth0&logoColor=white&style=for-the-badge" alt="auth0 badge" />
