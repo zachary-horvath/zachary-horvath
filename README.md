@@ -13,7 +13,7 @@ I'm a senior software engineer. I build composable websites that are fast, respo
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="react badge" />
   <img src="https://img.shields.io/badge/-React Native-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="react native badge" />
   <img src="https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" alt="next.js badge" />
-  <img src="https://img.shields.io/badge/-Angular-0f0f11?logo=angular&logoColor=white&style=for-the-badge" alt="angular badge" />
+  <img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" alt="angular badge" />
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="node.js badge" />
   <img src="https://img.shields.io/badge/-PHP-8993be?logo=php&logoColor=white&style=for-the-badge" alt="php badge" />
   <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="html badge" />
