@@ -44,7 +44,6 @@ I'm a senior software engineer. I build composable websites that are fast, respo
   <img src="https://img.shields.io/badge/-WooCommerce-96588A?logo=woocommerce&logoColor=white&style=for-the-badge" alt="woocommerce badge" />
   <img src="https://img.shields.io/badge/-Salesforce-00A1E0?logo=salesforce&logoColor=white&style=for-the-badge" alt="salesforce badge" />
   <img src="https://img.shields.io/badge/-HubSpot-FF7A59?logo=hubspot&logoColor=white&style=for-the-badge" alt="hubspot badge" />
-  <img src="https://img.shields.io/badge/-Airtable-18BFFF?logo=airtable&logoColor=white&style=for-the-badge" alt="airtable badge" />
 
   <!-- DevOps & Monitoring -->
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="git badge" />
@@ -71,6 +70,7 @@ I'm a senior software engineer. I build composable websites that are fast, respo
   <img src="https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=for-the-badge" alt="notion badge" />
   <img src="https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" alt="jira badge" />
   <img src="https://img.shields.io/badge/-Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge" alt="trello badge" />
+  <img src="https://img.shields.io/badge/-Airtable-18BFFF?logo=airtable&logoColor=white&style=for-the-badge" alt="airtable badge" />
 
   <!-- AI -->
   <img src="https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge" alt="OpenAI badge" />
