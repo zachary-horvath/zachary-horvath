@@ -36,7 +36,6 @@ I'm a senior software engineer. I build composable websites and mobile apps that
   <img src="https://img.shields.io/badge/-Contentstack-E74C3D?logo=contentstack&logoColor=white&style=for-the-badge" alt="contentstack badge" />
   <img src="https://img.shields.io/badge/-Contentful-2478CC?logo=contentful&logoColor=white&style=for-the-badge" alt="contentful badge" />
   <img src="https://img.shields.io/badge/-Strapi-2F2E8B?logo=strapi&logoColor=white&style=for-the-badge" alt="strapi badge" />
-  <img src="https://img.shields.io/badge/-Sanity-F03E2F?logo=sanity&logoColor=white&style=for-the-badge" alt="sanity badge" />
   <img src="https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" alt="wordpress badge" />
   <img src="https://img.shields.io/badge/-Sitecore-eb1f1f?logo=sitecore&logoColor=white&style=for-the-badge" alt="sitecore badge" />
   <img src="https://img.shields.io/badge/-Shopify-7AB55C?logo=shopify&logoColor=white&style=for-the-badge" alt="shopify badge" />
@@ -44,6 +43,7 @@ I'm a senior software engineer. I build composable websites and mobile apps that
   <img src="https://img.shields.io/badge/-WooCommerce-96588A?logo=woocommerce&logoColor=white&style=for-the-badge" alt="woocommerce badge" />
   <img src="https://img.shields.io/badge/-Salesforce-00A1E0?logo=salesforce&logoColor=white&style=for-the-badge" alt="salesforce badge" />
   <img src="https://img.shields.io/badge/-HubSpot-FF7A59?logo=hubspot&logoColor=white&style=for-the-badge" alt="hubspot badge" />
+  <img src="https://img.shields.io/badge/-Sanity-F03E2F?logo=sanity&logoColor=white&style=for-the-badge" alt="sanity badge" />
 
   <!-- DevOps & Monitoring -->
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="git badge" />
@@ -60,8 +60,8 @@ I'm a senior software engineer. I build composable websites and mobile apps that
   <img src="https://img.shields.io/badge/-Lytics-E74C3D?logo=contentstack&logoColor=white&style=for-the-badge" alt="lytics badge" />
 
   <!-- Experimentation & Analytics -->
-  <img src="https://img.shields.io/badge/-LaunchDarkly-1F2937?logo=launchdarkly&logoColor=white&style=for-the-badge" alt="launchdarkly badge" />
   <img src="https://img.shields.io/badge/-Google Analytics-E37400?logo=googleanalytics&logoColor=white&style=for-the-badge" alt="google analytics badge" />
+  <img src="https://img.shields.io/badge/-LaunchDarkly-1F2937?logo=launchdarkly&logoColor=white&style=for-the-badge" alt="launchdarkly badge" />
 
   <!-- Design & Collaboration -->
   <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" alt="figma badge" />
