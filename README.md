@@ -62,6 +62,7 @@ I'm a senior software engineer. I build composable websites and mobile apps that
   <!-- Experimentation & Analytics -->
   <img src="https://img.shields.io/badge/-Google Analytics-E37400?logo=googleanalytics&logoColor=white&style=for-the-badge" alt="google analytics badge" />
   <img src="https://img.shields.io/badge/-LaunchDarkly-1F2937?logo=launchdarkly&logoColor=white&style=for-the-badge" alt="launchdarkly badge" />
+  <img src="https://img.shields.io/badge/-PostHog-000000?logo=posthog&logoColor=white&style=for-the-badge" alt="posthog badge" />
 
   <!-- Design & Collaboration -->
   <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" alt="figma badge" />
