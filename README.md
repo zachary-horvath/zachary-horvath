@@ -80,7 +80,7 @@ I'm a senior software engineer. I build composable websites and mobile apps that
   <img src="https://img.shields.io/badge/-Airtable-18BFFF?logo=airtable&logoColor=white&style=for-the-badge" />
 
   <!-- AI -->
-  <img src="https://img.shields.io/badge/-ChatGPT-412991?logo=chatgpt&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-ChatGPT-000000?logo=chatgpt&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Claude-D97757?logo=claude&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Gemini-8E75B2?logo=googlegemini&logoColor=white&style=for-the-badge" />
 
